@@ -15,5 +15,5 @@ Example usage:
 <script>
     $.browserLanguage(function( language , acceptHeader ){
       alert("You have your browser language set to " + language + " and the complete value of the 'Accept-Language' header is " + acceptHeader);
-    })
+    });
 </script>
