@@ -2,7 +2,7 @@
 
 This is a jQuery plugin to obtain the browser language setting 
 
-Note, the browser language can not (generally) be obtained via navigator.language (which is silly but there you go)
+The browser language can not (generally) be obtained via navigator.language (which is silly but there you go).
 
 The browser language is available in "Accept-language" HTTP header, but this is not directly accessible via javascript.
 
