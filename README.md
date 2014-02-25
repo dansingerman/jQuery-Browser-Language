@@ -14,10 +14,10 @@ The Accept-Language header as defined by http://www.w3.org/Protocols/rfc2616/rfc
 
 Example usage:
 
-``
+```
 <script>
     $.browserLanguage(function( language , acceptHeader ){
       alert("You have your browser language set to " + language + " and the complete value of the 'Accept-Language' header is " + acceptHeader);
     });
 </script>
-``
+```
