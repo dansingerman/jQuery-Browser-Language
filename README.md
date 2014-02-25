@@ -1,4 +1,4 @@
- **Note**: this is a hack only to be used if you do not have a back end available that can do this for you. In general you should not be making calls to third party hosted javascript files in your pages unless you have a very high level of trust in the host.
+ **Note**: this is a hack only to be used if you do not have a back end available that can do this for you. In general you should not be making calls to third party hosted javascript files in your pages unless you have a very high level of trust in the host. Third party script calls could in theory run any arbitrary javascript on your site.
 
 This is a jQuery plugin to obtain the browser language setting 
 
