@@ -21,6 +21,7 @@ Example usage:
     });
 </script>
 ```
-Update 30th April 2015
+
+##Update 30th April 2015
 
 If you want to run your own version of the App Engine app, you can find it here: https://github.com/dansingerman/app-engine-headers
