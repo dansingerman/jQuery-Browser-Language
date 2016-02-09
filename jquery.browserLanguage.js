@@ -23,7 +23,7 @@
    $.browserLanguage = function(callback){
      var language;
      $.ajax({
-         url: "http://ajaxhttpheaders.appspot.com",
+         url: "//ajaxhttpheaders.appspot.com",
          dataType: 'jsonp',
          success: function(headers) {
              language = headers['Accept-Language'].substring(0,2);
